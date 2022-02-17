@@ -15,7 +15,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import com.google.firebase.firestore.FirebaseFirestore;
 
-public class MainActivity<FirebaseAuth> extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     ///////////
     EditText correo,contraseña;
