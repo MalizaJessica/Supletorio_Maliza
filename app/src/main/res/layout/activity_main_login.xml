@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:text="LOGIN" />
+
+    <EditText
+        android:id="@+id/editText_correo"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:alpha="0.87"
+        android:ems="10"
+        android:hint="Correo electrónico"
+        android:inputType="textEmailAddress"
+        android:maxLength="50"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/editText_contrasenia"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0.87"
+        android:ems="10"
+        android:hint="Contraseña"
+        android:inputType="textPassword"
+        android:maxLines="20"
+        android:minHeight="48dp" />
+
+    <Button
+        android:id="@+id/button_iniciar_sesion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Iniciar sesión" />
+</LinearLayout>
