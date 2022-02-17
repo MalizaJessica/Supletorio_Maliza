@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_detalle_listatareas.xml" value="0.1793478260869565" />
+        <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_detalle_personal.xml" value="0.1793478260869565" />
         <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_main_adaptartarea.xml" value="0.1793478260869565" />
+        <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_main_agregartareas.xml" value="0.1793478260869565" />
+        <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_main_listatareas.xml" value="0.1793478260869565" />
         <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_main_login.xml" value="0.1793478260869565" />
+        <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_main_pagina.xml" value="0.1793478260869565" />
+        <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_main_tareas.xml" value="0.1793478260869565" />
+        <entry key="..\:/SupleMoviles/app/src/main/res/layout/activity_main_ventas.xml" value="0.1793478260869565" />
       </map>
     </option>
   </component>
